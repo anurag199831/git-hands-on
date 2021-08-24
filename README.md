@@ -136,6 +136,8 @@ gitk
 
 ```powershell
 # Edit this line: my favorite number is π
+# Edit this line: my favorite colour is red
+
 git commit -am "Fix favorite number"
 
 git status                      # Branch is ahead
